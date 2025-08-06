@@ -30,7 +30,7 @@ This is a simple FastAPI application that performs basic CRUD (Create, Read, Upd
     bash
     uvicorn main:app --reload
 
-# Build the Docker image:
+# Build the Docker image
 
 docker build -t fastapi-app .
 
