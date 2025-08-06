@@ -14,7 +14,7 @@ This is a simple FastAPI application that performs basic CRUD (Create, Read, Upd
 - Python 3.9+
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Uvicorn](https://www.uvicorn.org/) (ASGI server)
-- Docker Desktop:
+- Docker Desktop
 # Installation
 
 1. Clone the repository  
